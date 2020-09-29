@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+
+}
+
+img{
+  max-width: 180px;
+  width:max-content !important;
+}
+
+.message_form{
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  bottom: 0px;
+  z-index: 3;
+  width: 100%;
+  margin: 0 auto ;
+
+  background-color: #e9e9eb;
+}
+
+.message_form_ctrl{
+  display: flex !important;
+  flex-direction: row !important;
+   
+}
+
+.send_button{
+  flex: 0;
+  margin-right: 40px !important;
+  color:  #0b81ff !important;
+}
+
+.send_button:disabled{
+  color: gray !important;
+}
+
+.message_input{
+  flex: 1;
+}
+
+.flip{
+  margin-bottom: 120px !important;
+}

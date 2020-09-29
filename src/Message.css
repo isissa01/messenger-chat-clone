@@ -1,0 +1,39 @@
+.message{ 
+   padding: 10px;
+   width: fit-content;
+   margin: 10px;
+
+ 
+}
+.username{
+    text-align: left;
+    margin: 10px;
+    color: gray;
+}
+
+h3{
+    margin-top: -25px;
+}
+
+.current{
+    background-color: #0b81ff !important;
+    color: white !important;
+    text-align: end;
+    margin-left: auto;
+    
+}
+.guest{
+    background-color: #e9e9eb !important;
+}
+.messenger{
+    color: rgb(0, 153, 255);
+    font-family: FacebookReader, sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    letter-spacing: -1.5px;
+    line-height: 42px;
+    font-style: normal;
+}
+img{
+    margin-top: 20px;
+}
